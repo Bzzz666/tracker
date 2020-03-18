@@ -1,0 +1,7 @@
+imutils
+numpy
+argparse
+opencv-python-headless
+# opencv-contrib-python
+# opencv-python
+imutils
